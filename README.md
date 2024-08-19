@@ -1,4 +1,4 @@
 # React Projects
 
-This template provides react-projects for showcase my skills
+This repo provides react-projects for showcase my skills
 
